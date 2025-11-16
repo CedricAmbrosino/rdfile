@@ -1,0 +1,44 @@
+Évolution de l’informatique
+
+1. Les débuts (années 1930-1950)
+
+Premières machines électromécaniques et électroniques : Z3, ENIAC,
+Colossus.
+
+2. L’ère des mainframes
+
+Ordinateurs centraux utilisés dans les entreprises et institutions.
+
+3. Transistor et circuits intégrés
+
+Augmentation de la fiabilité, baisse des coûts, apparition des premiers
+systèmes d’exploitation.
+
+4. Micro-informatique (1970-1990)
+
+Arrivée des PC : Apple II, IBM PC, Commodore 64.
+
+5. Interfaces graphiques
+
+Macintosh, Windows : démocratisation de l’usage grand public.
+
+6. Internet (1990-2000)
+
+Explosion du web, naissance du commerce en ligne, du mail grand public
+et des premières plateformes.
+
+7. Mobile (après 2007)
+
+Smartphones, applications, ordinateurs de poche.
+
+8. Cloud computing
+
+Stockage et calcul déportés. Services accessibles à distance.
+
+9. Informatique moderne
+
+Big data, IA, cybersécurité, objets connectés, automatisation.
+
+10. Futur
+
+Informatique quantique, IA générative, systèmes autonomes.

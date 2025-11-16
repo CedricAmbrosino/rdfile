@@ -1,0 +1,50 @@
+Évolution de la programmation
+
+La programmation a connu plusieurs grandes étapes depuis son apparition
+:
+
+1. Premières machines (années 1940-1950)
+
+La programmation se faisait en langage machine, composée de suites de 0
+et de 1. Chaque instruction dépendait directement du matériel.
+
+2. Apparition des langages assembleur
+
+Les programmeurs commencent à utiliser des mnémoniques plus lisibles.
+Les assembleurs traduisent ensuite ces codes symboliques en instructions
+machines.
+
+3. Langages de haut niveau (années 1950-1970)
+
+Des langages comme Fortran, COBOL ou Lisp permettent d’écrire des
+programmes plus abstraits et portables. C’est le début de la
+généralisation de la programmation.
+
+4. Paradigmes structurés (années 1970-1980)
+
+Avec C et Pascal, la notion de structure, de bloc et de contrôle du flot
+devient centrale. Cela réduit les erreurs et améliore la maintenance.
+
+5. Programmation orientée objet (années 1980-2000)
+
+Smalltalk, puis C++ et Java popularisent les concepts d’objets,
+d’héritage et d’encapsulation. Les logiciels deviennent plus modulaires.
+
+6. Internet et nouveaux langages (années 2000)
+
+JavaScript devient incontournable. Python et PHP accélèrent le
+développement web. L’open source explose.
+
+7. Écosystèmes modernes (2010-aujourd’hui)
+
+Montée en puissance du cloud, des microservices, de Rust, Go, et de
+TypeScript. L’automatisation, les frameworks et l’IA deviennent
+centraux.
+
+8. Programmation assistée par IA
+
+Les outils d’aide à la programmation et les générateurs de code
+permettent de créer plus vite, en déléguant certaines tâches complexes.
+
+La programmation continue d’évoluer vers plus d’abstraction, de sécurité
+et d’automatisation.

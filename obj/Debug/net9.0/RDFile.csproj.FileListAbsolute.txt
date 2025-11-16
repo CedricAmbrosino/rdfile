@@ -1,0 +1,14 @@
+/home/akelon/Documents/VscForge/0-dotnet/RDFile/bin/Debug/net9.0/RDFile
+/home/akelon/Documents/VscForge/0-dotnet/RDFile/bin/Debug/net9.0/RDFile.deps.json
+/home/akelon/Documents/VscForge/0-dotnet/RDFile/bin/Debug/net9.0/RDFile.runtimeconfig.json
+/home/akelon/Documents/VscForge/0-dotnet/RDFile/bin/Debug/net9.0/RDFile.dll
+/home/akelon/Documents/VscForge/0-dotnet/RDFile/bin/Debug/net9.0/RDFile.pdb
+/home/akelon/Documents/VscForge/0-dotnet/RDFile/obj/Debug/net9.0/RDFile.GeneratedMSBuildEditorConfig.editorconfig
+/home/akelon/Documents/VscForge/0-dotnet/RDFile/obj/Debug/net9.0/RDFile.AssemblyInfoInputs.cache
+/home/akelon/Documents/VscForge/0-dotnet/RDFile/obj/Debug/net9.0/RDFile.AssemblyInfo.cs
+/home/akelon/Documents/VscForge/0-dotnet/RDFile/obj/Debug/net9.0/RDFile.csproj.CoreCompileInputs.cache
+/home/akelon/Documents/VscForge/0-dotnet/RDFile/obj/Debug/net9.0/RDFile.dll
+/home/akelon/Documents/VscForge/0-dotnet/RDFile/obj/Debug/net9.0/refint/RDFile.dll
+/home/akelon/Documents/VscForge/0-dotnet/RDFile/obj/Debug/net9.0/RDFile.pdb
+/home/akelon/Documents/VscForge/0-dotnet/RDFile/obj/Debug/net9.0/RDFile.genruntimeconfig.cache
+/home/akelon/Documents/VscForge/0-dotnet/RDFile/obj/Debug/net9.0/ref/RDFile.dll
