@@ -31,8 +31,9 @@ dotnet run
 ```
 
 ## Structure du projet
+```
 RDFile/
  ├── Files/           # Dossier contenant les fichiers à lire
  ├── Program.cs      # Logique du programme
  └── README.md
-
+```
